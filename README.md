@@ -38,7 +38,7 @@ In the near future, I also plan to dive into cybersecurity and threat detection 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
----
+
 
 [![Repositories](https://img.shields.io/badge/-Click%20here%20to%20view%20my%20repositories-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmartinssilva?tab=repositories)
 
