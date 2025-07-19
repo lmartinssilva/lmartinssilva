@@ -39,9 +39,10 @@ In the near future, I also plan to dive into cybersecurity and threat detection 
 
 </p>
 
+### 📁 Projects
 
-
-[![Repositories](https://img.shields.io/badge/-REPOSITORIES-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leomartins12?tab=repositories)
+- [terraform-aws-nginx-ec2](https://github.com/Leomartins12/terraform-aws-nginx-ec2) – AWS infrastructure with EC2 + Nginx automated via Terraform  
+- [senac-micro-2025-G09-SenacAir](https://github.com/Leomartins12/senac-micro-2025-G09-SenacAir) – Academic project using APIs and frontend with Next.js 
 
 ---
 
