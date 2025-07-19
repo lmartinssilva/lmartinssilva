@@ -16,7 +16,7 @@ I'm curious by nature and love to simplify processes through practical solutions
 
 ---
 
-### 🛠️ Technologies I use or study
+### 🛠️ Stacks
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -31,16 +31,6 @@ I'm curious by nature and love to simplify processes through practical solutions
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
-### 📚 Currently learning
-
-- Python scripting and automation  
-- Hands-on labs with Terraform, Azure CLI and AWS  
-- DevOps & SRE concepts  
-- Studying for AZ-104 and SC-900 certifications  
-
----
 
 ### 📁 Projects
 
