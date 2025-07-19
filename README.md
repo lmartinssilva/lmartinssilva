@@ -51,7 +51,8 @@ In the near future, I also plan to dive into cybersecurity and threat detection 
 ### 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-martins-9950261ab)  
-📫 leonardomartins0700@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardomartins0700@gmail.com)
+
 
 ---
 
