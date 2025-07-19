@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About me
 
-I work with IT infrastructure since 2021. Currently I'm focused on supporting and improving environments through automation, monitoring, scripting and cloud solutions (Azure & AWS).I'm curious by nature and love to simplify processes through practical solutions. 
+I work with IT infrastructure since 2021. Currently I'm focused on supporting and improving environments through automation, monitoring, scripting and cloud solutions.I'm curious by nature and love to simplify processes through practical solutions. 
 I'm especially interested in areas like DevOps, Python scripting, and cloud management.
 In the near future, I also plan to dive into cybersecurity and threat detection to broaden my skill
 
