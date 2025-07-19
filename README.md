@@ -39,12 +39,12 @@ In the near future, I also plan to dive into cybersecurity and threat detection 
 
 </p>
 
+## 📁 Repositories
 
 [![Repositories](https://img.shields.io/badge/-Click%20here%20to%20view%20my%20repositories-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmartinssilva?tab=repositories)
 
 _I'm actively building new projects. Stay tuned for more updates!_
 
----
 
 ### 🤝 Let's connect
 
