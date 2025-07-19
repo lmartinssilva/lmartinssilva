@@ -1,53 +1,60 @@
-# 👋 Olá, eu sou o Leonardo Martins!
-
-🎓 Formado em Gestão da Tecnologia da Informação  
-💼 Analista de Infraestrutura de TI na Reply  
-☁️ Apaixonado por Cloud, Automação, Infraestrutura e Segurança  
-📚 Estudando: Azure, AWS, Python, DevOps e SRE  
-
----
-
-## 🚀 Stacks
+<h1 align="center">Hi there, I'm Leonardo Martins 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  💻 IT Infrastructure Analyst <br>
+  ☁️ Passionate about Cloud, Automation and Security <br>
+  🚀 Focused on continuous learning and improvement <br>
 </p>
 
 ---
 
-## 📁 Repositórios em destaque
+### 👨‍💻 About me
 
-- [`terraform-aws-nginx-ec2`](https://github.com/Leomartins12/terraform-aws-nginx-ec2)  
-  Provisionamento completo na AWS com Nginx e segurança via Terraform
+I work with IT infrastructure since 2021. Currently I'm focused on supporting and improving environments through automation, monitoring, scripting and cloud solutions (Azure & AWS).  
 
-- [`senac-micro-2025-G09-SenacAir`](https://github.com/Leomartins12/senac-micro-2025-G09-SenacAir)  
-  Projeto acadêmico com consumo de APIs e arquitetura baseada em microserviços
+I'm curious by nature and love to simplify processes through practical solutions. I'm especially interested in areas like DevOps, Python scripting, and cloud management.
 
 ---
 
-## ✨ Em progresso
+### 🛠️ Technologies I use or study
 
-- Criando repositórios com scripts PowerShell, automações com Python e labs em Azure  
-- Estudando para certificações como AZ-104 e SC-900
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contato
+### 📚 Currently learning
+
+- Python scripting and automation  
+- Hands-on labs with Terraform, Azure CLI and AWS  
+- DevOps & SRE concepts  
+- Studying for AZ-104 and SC-900 certifications  
+
+---
+
+### 📁 Projects
+
+- [terraform-aws-nginx-ec2](https://github.com/Leomartins12/terraform-aws-nginx-ec2) – AWS infrastructure with EC2 + Nginx automated via Terraform  
+- [senac-micro-2025-G09-SenacAir](https://github.com/Leomartins12/senac-micro-2025-G09-SenacAir) – Academic project using APIs and frontend with Next.js  
+
+---
+
+### 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-martins-9950261ab)  
-📧 leonardomartins0700@gmail.com
+📫 leonardomartins0700@gmail.com
+
+---
+
+<p align="center">Thanks for visiting my profile! 🚀</p>
+
